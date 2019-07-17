@@ -15,6 +15,7 @@ span.right{
 }
 table { 
 	border-collapse: collapse; 
+	width: 100%
 }
 tr { 
 	border: none;
@@ -28,4 +29,13 @@ td.borders {
 }
 hr{
 	border-color: lightgreen;
+}
+.fiftyfifty{
+  width: 50%;
+}
+.thirtythree{
+  width: 33%;
+}
+.sixtysix{
+  width: 66%
 }
