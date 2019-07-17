@@ -5,10 +5,13 @@
 	text-align: right;
 }
 .container{
-	margin: 50px;
+	margin-left: 10%;
+  margin-right: 10%;
+  margin-top: 5%;
 }
 h1{
 	font-size: 40px;
+  color: #696969;
 }
 span.right{
 	text-align: right;		
@@ -30,6 +33,12 @@ td.borders {
 hr{
 	border-color: lightgreen;
 }
+.twentythree{
+  width: 23%;
+}
+.fortyfifty{
+  width: 43%;
+}
 .fiftyfifty{
   width: 50%;
 }
@@ -38,4 +47,12 @@ hr{
 }
 .sixtysix{
   width: 66%
+}
+.titles{
+  font-size: 18px;
+  font-weight: 500;
+  font-family: monospace;
+}
+strong{
+  color: #696969;
 }
