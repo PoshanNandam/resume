@@ -7,6 +7,9 @@
 .container{
 	margin: 50px;
 }
+h1{
+	font-size: 45px;
+}
 span.right{
 	text-align: right;		
 }
@@ -21,8 +24,7 @@ td:not(.no-padding){
 	padding-left: 20px;
 }
 td.borders {
-	border-right: solid 2px lightgreen; 
-
+	border-right: solid 1px green; 
 }
 hr{
 	border-color: lightgreen;
