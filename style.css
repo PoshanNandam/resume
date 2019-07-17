@@ -1,0 +1,29 @@
+.center{
+	text-align: center;
+}
+.right{
+	text-align: right;
+}
+.container{
+	margin: 50px;
+}
+span.right{
+	text-align: right;		
+}
+table { 
+	border-collapse: collapse; 
+}
+tr { 
+	border: none;
+
+}
+td:not(.no-padding){
+	padding-left: 20px;
+}
+td.borders {
+	border-right: solid 2px lightgreen; 
+
+}
+hr{
+	border-color: lightgreen;
+}
